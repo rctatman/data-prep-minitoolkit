@@ -1,6 +1,6 @@
 # data-prep-minitoolkit
 
-Three little python scripts for data preparation: remove commas, add commas, concatenate file.
+Three little python scripts for data preparation: remove commas, add commas, and concatenate multiple files into one file.
 
 ### Commatizer
 
