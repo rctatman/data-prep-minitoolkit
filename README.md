@@ -1,6 +1,4 @@
-# data-prep-minitoolkit
-
-Three little Python scripts for data preparation: remove commas, add commas, and concatenate multiple files into one file.
+This repo has three little Python scripts to help with common data preparation taks: removing commas, adding commas, and concatenating multiple files into one file.
 
 ### Commatizer
 
